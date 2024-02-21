@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Участок",
+        "path": "area"
+    },
+    {
+        "title": "Товар",
+        "path": "product"
+    },
+    {
+        "title": "Чистка",
+        "path": "cleaning"
+    }
+]
